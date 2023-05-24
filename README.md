@@ -10,7 +10,7 @@ higher threshold = 0.8
 
 ## Displays the price data along with stochastic,an indicator if a trade is active or not and an equity curve.
 ![](https://github.com/algo23-222040060/Assignment3/blob/main/GOOGL.png)
-![]()
+![](https://github.com/algo23-222040060/Assignment3/blob/main/Equity.png)
 
 ## Backtests a stochastic crossover strategy.
 final profit=
